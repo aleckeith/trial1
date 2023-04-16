@@ -1,0 +1,39 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+.emphasizedText{
+    font-style: italic;
+    color: crimson;
+}
+
+a:visited{
+    color: purple;
+}
+
+body{
+    background-color: whitesmoke;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.centered-list{
+    /* display: inline-block;*/
+  
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
